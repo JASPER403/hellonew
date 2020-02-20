@@ -17,6 +17,23 @@ public class FirstActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first);
         btnplay=findViewById(R.id.btnplay);
+        btnplay.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                play=MediaPlayer.create(getApplicationContext(),R.raw.chikibombe);
+                play.start();
+            }
+        });
+        btnstop=findViewById(R.id.btnstop);
+        btnstop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (play!=null && play.isPlaying());
+
+                play.stop();
+            }
+        });
+
 
     }
 

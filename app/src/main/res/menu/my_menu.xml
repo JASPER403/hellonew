@@ -4,8 +4,8 @@
 
     <item
         android:id="@+id/item1"
-        android:title="First_Activity" />
+        android:title="MUSIC" />
     <item
         android:id="@+id/item2"
-        android:title="Second_Activity" />
+        android:title="C_CODE" />
 </menu>
