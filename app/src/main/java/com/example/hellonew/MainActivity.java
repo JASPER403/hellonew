@@ -20,7 +20,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//        startActivity(new Intent(MainActivity.this,splashScreen.class));
+//
+//        // close splash activity
+//        finish();
       }
 
 
@@ -45,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.item2:
                 startActivity(new Intent(this,SecondActivity.class));
+                return true;
+            case R.id.item3:
+                startActivity(new Intent(this,listView.class));
                 return true;
 
             default:

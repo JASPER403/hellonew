@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".listView">
+    HomeAndroid TutorialAndroid ListView Example
+    Android ListView Example
+    Jerry Zhao November 20, 2017 0
+    android.widget.ListView is widely used in android mobile app. It displays all the list items in the form of a vertical list. This article will show you examples about how to create ListView and how to add item data in it.
+
+
+    1. How To Get A ListView Object.
+    There are two ways to create a ListView.
+
+    Use android.widget.ListView widget directly.
+    Make your activity class extends android.app.ListActivity. Then you can call it’s setAdapter() method to set item data, and it’s onListItemClick() method is used to response list item click action.
+    After you get the ListView object, you need to add item data in it through Adapter. There are following Adapters that you can use.
+
+
+    ArrayAdapter.
+    SimpleAdapter.
+    BaseAdapter.
+    You can even use other adapters, but these three adapters are most used. We will show you above adapter examples later.
+
+    2. ListView Properties And Methods.
+    android:choiceMode : The value can be singleChoice (can only select one item ), multipleChoice( can select multiple item ) or none.
+    android:divider : It is a color or drawable object id, used to set divider color.
+    android:dividerHeight : Set the divider height.
+    android:entries : The value is a array resource id defined in android studio. The array data will be shown in the ListView.
+    android:headerDividersEnabled : Boolean value, true means draw divider after header view.
+    android:footerDividersEnabled : Boolean value, true means draw divider before footer view.
+    setOnItemClickListener() : Set OnItemClickListener object which will response to ListView item click event.
+    3. ListView ArrayAdapter Example.
+    android listview array adapter example
+
+    activity_list_view.xml
+
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/holo_purple"
+        android:dividerHeight="10dp"
+        android:clickable="true"
+        android:choiceMode="singleChoice"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
