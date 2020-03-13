@@ -24,7 +24,6 @@ public class  FirstActivity extends AppCompatActivity {
                 play.start();
             }
         });
-        btnstop=findViewById(R.id.btnstop);
         btnstop.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

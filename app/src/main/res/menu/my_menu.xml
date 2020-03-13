@@ -11,4 +11,10 @@
     <item
         android:id="@+id/item3"
         android:title="LIST_VIEW" />
+    <item
+        android:id="@+id/item4"
+        android:title="CALL/SEND EMAIL" />
+    <item
+        android:id="@+id/item5"
+        android:title="BATTERY" />
 </menu>

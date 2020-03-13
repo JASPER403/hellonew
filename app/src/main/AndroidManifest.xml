@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.hellonew">
 
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".battery"></activity>
+        <activity android:name=".Sendintents" />
+        <activity android:name=".recycler_View" />
         <activity android:name=".listView" />
         <activity android:name=".splashScreen">
             <intent-filter>
@@ -22,7 +27,7 @@
         <activity android:name=".SecondActivity" />
         <activity android:name=".FirstActivity" />
         <activity android:name=".DisplayMessageActivity" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
