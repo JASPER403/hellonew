@@ -4,6 +4,7 @@
     package="com.example.hellonew">
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:allowBackup="true"
@@ -13,9 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".battery"></activity>
+        <activity android:name=".vibrator"></activity>
+        <activity android:name=".battery" />
         <activity android:name=".Sendintents" />
-        <activity android:name=".recycler_View" />
         <activity android:name=".listView" />
         <activity android:name=".splashScreen">
             <intent-filter>

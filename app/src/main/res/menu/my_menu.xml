@@ -15,6 +15,9 @@
         android:id="@+id/item4"
         android:title="CALL/SEND EMAIL" />
     <item
-        android:id="@+id/item5"
-        android:title="BATTERY" />
+    android:id="@+id/item5"
+    android:title="BATTERY" />
+    <item
+        android:id="@+id/item6"
+        android:title="VIBRATOR" />
 </menu>

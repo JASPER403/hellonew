@@ -28,13 +28,13 @@ android:background="@android:color/background_dark"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Jasper App"
-        android:textColor="@android:color/holo_orange_dark"
-        android:textSize="30sp"  
         android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="30sp"
 
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="171dp" />
+        tools:layout_editor_absoluteY="16dp" />
 
     <Button
         android:id="@+id/sendButton"
@@ -63,4 +63,15 @@ android:background="@android:color/background_dark"
         app:layout_constraintTop_toBottomOf="@+id/sendButton"
         tools:layout_editor_absoluteX="44dp"
         tools:ignore="MissingConstraints" />
+    <TextView
+        android:id = "@+id/text"
+        android:textSize = "58sp"
+
+        android:text = "batter percentage"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        tools:ignore="MissingConstraints" />
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

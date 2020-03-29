@@ -2,6 +2,8 @@ package com.example.hellonew;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.AlarmManager;
+import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 
@@ -27,21 +29,19 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity{
    private TextView batterytxt;
 
+    int view = R.layout.activity_main;
+    TextView text;
 
 
 
 
-//    private  BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {
-//        @Override
-//        public void onReceive(Context context, Intent intent) {
-//            {
-//
-//                int level=intent.getIntExtra(BatteryManager.EXTRA_LEVEL,0);
-//                batterytxt.setText(String.valueOf(level)+"%");
-//            }
-//        }
-//    } ;
-
+//here
+public void sendMessage(View view) {EditText message = (EditText)findViewById(R.id.message);
+Intent intent = new Intent(this, DisplayMessageActivity.class);
+intent.putExtra("MESSAGE", message.getText().toString());
+    startActivity(intent);
+    message.setText("");
+}
 
     //here
 
@@ -50,16 +50,7 @@ public class MainActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//batterytxt=(TextView)this.findViewById(R.id.batterytxt);
-//this.registerReceiver(this.mBroadcastReceiver,new IntentFilter(Intent.ACTION_BATTERY_CHANGED));
-      }
-
-
-    public void sendMessage(View view) {EditText message = (EditText)findViewById(R.id.message);
-    Intent intent = new Intent(this, DisplayMessageActivity.class);
-    intent.putExtra("MESSAGE", message.getText().toString());
-        startActivity(intent);
-        message.setText(""); }
+        }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -85,6 +76,10 @@ public class MainActivity extends AppCompatActivity{
                 return true;
             case R.id.item5:
                 startActivity(new Intent(this,battery.class));
+                return true;
+            case R.id.item6:
+                startActivity(new Intent(this,vibrator.class));
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
