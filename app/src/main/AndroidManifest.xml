@@ -14,7 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".vibrator"></activity>
+        <activity android:name=".internal"></activity>
+        <activity android:name=".vibrator" />
         <activity android:name=".battery" />
         <activity android:name=".Sendintents" />
         <activity android:name=".listView" />
