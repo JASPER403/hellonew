@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\6859ea1267dd12054fb11c62bbdb44c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\7301f59a6cce0735b6b11718064087c9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\071b45cae1118bc14e566cb6954a64ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\98abda03a1ccdb9aadd9e68001284855\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\2e412403d004680b6efafa8b8e1aed7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\eb2a3e82f35752905d2e5a48924a7112\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\1000de5da661220fbdfc4139117efe35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\bee2bd61e8f74d5fbcf69cd2475ad943\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\e9ca9fa92cb26cb4d7bfa6655a2b9b71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e967b91ae0e80c5468a5c8e8a69c84f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6a25e935b31351327cbdcbbb57975e24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\07baf84cb20c1e2254f30a728cf53b9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\3e0475a7bbd08ebb36d66d383205f1ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\6819528b3f4da11e6a294da42b6a298b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\6bf92fb71805ede5b107805941c14b06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\176a5e2c0cc48b83272cfb0920f527ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2f2a5abba93218212b9f7b31ab221b87\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\253b33cce15a89a0401d313d8afaf381\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\545d60bf02498357a21ae03ec03241d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\cec000c16c01fa460c9fd364ad21c603\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\db0ef13a34b236d483de6cf76129364a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\da46f1bd0d10386df2e5638a5399ddef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\a7f202b440bd78a38d7ac1e2850c3932\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\d5a3d98bfdb07443930496f98d0669ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\3a3c8cd7778f6e6f8e30d30c72b6edfc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:10:22-74
+application
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:12:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\7301f59a6cce0735b6b11718064087c9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\7301f59a6cce0735b6b11718064087c9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2f2a5abba93218212b9f7b31ab221b87\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2f2a5abba93218212b9f7b31ab221b87\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.hellonew.databaseActivity
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.hellonew.internal
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:21:19-43
+activity#com.example.hellonew.vibrator
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:22:9-46
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:22:19-43
+activity#com.example.hellonew.battery
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:23:19-42
+activity#com.example.hellonew.Sendintents
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:24:19-46
+activity#com.example.hellonew.listView
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:25:19-43
+activity#com.example.hellonew.splashScreen
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.hellonew.SecondActivity
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:33:19-49
+activity#com.example.hellonew.FirstActivity
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:34:19-48
+activity#com.example.hellonew.DisplayMessageActivity
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:35:19-57
+activity#com.example.hellonew.MainActivity
+ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml:36:19-47
+uses-sdk
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\6859ea1267dd12054fb11c62bbdb44c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\6859ea1267dd12054fb11c62bbdb44c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\7301f59a6cce0735b6b11718064087c9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\7301f59a6cce0735b6b11718064087c9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\071b45cae1118bc14e566cb6954a64ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\071b45cae1118bc14e566cb6954a64ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\98abda03a1ccdb9aadd9e68001284855\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\98abda03a1ccdb9aadd9e68001284855\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\2e412403d004680b6efafa8b8e1aed7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\2e412403d004680b6efafa8b8e1aed7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\eb2a3e82f35752905d2e5a48924a7112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\eb2a3e82f35752905d2e5a48924a7112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\1000de5da661220fbdfc4139117efe35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\1000de5da661220fbdfc4139117efe35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\bee2bd61e8f74d5fbcf69cd2475ad943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\bee2bd61e8f74d5fbcf69cd2475ad943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\e9ca9fa92cb26cb4d7bfa6655a2b9b71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\e9ca9fa92cb26cb4d7bfa6655a2b9b71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e967b91ae0e80c5468a5c8e8a69c84f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e967b91ae0e80c5468a5c8e8a69c84f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6a25e935b31351327cbdcbbb57975e24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6a25e935b31351327cbdcbbb57975e24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\07baf84cb20c1e2254f30a728cf53b9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\07baf84cb20c1e2254f30a728cf53b9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\3e0475a7bbd08ebb36d66d383205f1ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\3e0475a7bbd08ebb36d66d383205f1ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\6819528b3f4da11e6a294da42b6a298b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\6819528b3f4da11e6a294da42b6a298b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\6bf92fb71805ede5b107805941c14b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\6bf92fb71805ede5b107805941c14b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\0b907726d3b03a4411b56b0091dd0759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\176a5e2c0cc48b83272cfb0920f527ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\176a5e2c0cc48b83272cfb0920f527ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2f2a5abba93218212b9f7b31ab221b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\2f2a5abba93218212b9f7b31ab221b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\253b33cce15a89a0401d313d8afaf381\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\253b33cce15a89a0401d313d8afaf381\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\545d60bf02498357a21ae03ec03241d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\545d60bf02498357a21ae03ec03241d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\cec000c16c01fa460c9fd364ad21c603\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\cec000c16c01fa460c9fd364ad21c603\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\db0ef13a34b236d483de6cf76129364a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\db0ef13a34b236d483de6cf76129364a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\da46f1bd0d10386df2e5638a5399ddef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\da46f1bd0d10386df2e5638a5399ddef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\a7f202b440bd78a38d7ac1e2850c3932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\a7f202b440bd78a38d7ac1e2850c3932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\d5a3d98bfdb07443930496f98d0669ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\d5a3d98bfdb07443930496f98d0669ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\3a3c8cd7778f6e6f8e30d30c72b6edfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\3a3c8cd7778f6e6f8e30d30c72b6edfc\AndroidManifest.xml:20:5-44
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\hellonew-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hellonew-master\app\src\main\AndroidManifest.xml
